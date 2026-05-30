@@ -1,0 +1,2 @@
+docker build -t miss-ankita11/sample-python-flask:latest .
+docker push miss-ankita11/sample-python-flask:latest
